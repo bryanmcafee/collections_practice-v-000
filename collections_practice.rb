@@ -24,3 +24,10 @@ def kesha_maker(array6)
     word[2] = "$"
   end
 end
+
+def find_a(array7)
+  array7.find_all do |aaas|
+    aaas[0] == "a"
+  end
+  
+    
