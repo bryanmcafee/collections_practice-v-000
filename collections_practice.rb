@@ -21,5 +21,5 @@ end
 
 def kesha_maker(array6)
   array6.each do |word|
-    word[2] = $
+    word[2] = "$"
   end
