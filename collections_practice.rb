@@ -29,3 +29,4 @@ def find_a(array7)
   array7.find_all do |aaas|
     aaas[0] == "a"
   end
+end
