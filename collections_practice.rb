@@ -24,4 +24,3 @@ def kesha_maker(array6)
     word[2] = "$"
   end
 end
-
