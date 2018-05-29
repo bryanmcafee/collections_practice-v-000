@@ -30,3 +30,9 @@ def find_a(array7)
     aaas[0] == "a"
   end
 end
+
+def sum_array(array8)
+  array8.sum
+end
+
+  
