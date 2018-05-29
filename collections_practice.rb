@@ -34,3 +34,12 @@ end
 def sum_array(array8)
   array8.reduce(:+)
 end
+
+def add_s(array9)
+  array9.collect do |word|
+    if array[1] == word
+    else
+      word + "s"
+end
+end
+  
