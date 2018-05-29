@@ -42,4 +42,4 @@ def add_s(array9)
       word + "s"
 end
 end
-  
+end
