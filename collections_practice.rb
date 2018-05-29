@@ -38,6 +38,7 @@ end
 def add_s(array9)
   array9.collect do |word|
     if array9[1] == word
+      word
     else
       word + "s"
 end
