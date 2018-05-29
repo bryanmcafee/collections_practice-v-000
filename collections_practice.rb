@@ -7,5 +7,5 @@ def sort_array_desc(array2)
 end
 
 def sort_array_char_count(array3)
-  array3.sort_by.length
+  array3.sort_by.size
 end
